@@ -105,10 +105,9 @@ production
 
 ## Repository status
 
-Documentation-first. The example backlog will compare equivalent workflows across Claude Code, Cursor and Codex without pretending every tool behaves identically.
+Active. Runnable, production-oriented examples now live in [`examples/`](./examples/) — reviewed for performance (adaptive quality), accessibility, reduced-motion and non-WebGL fallbacks, and clean resource disposal. The set is refined and extended as new patterns land.
 
 See [examples/README.md](./examples/README.md).
-
 ## About AETumi
 
 AETumi helps designers, developers and agencies build cinematic, production-ready 3D web experiences with modern web technology and AI-assisted coding workflows.
